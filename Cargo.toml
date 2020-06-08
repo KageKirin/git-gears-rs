@@ -7,3 +7,10 @@ edition = "2018"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+regex = "1"
+git2 = "0.13"
+openssl-sys = "0.9"
+openssl = "0.10"
+serde = "1"
+reqwest = "0.1"
+clap = "3.0.0-beta.1"
